@@ -170,7 +170,7 @@ const CONFIG = {
 				},
 				{
 					name: 'AI',
-					link: 'https://www.ai.com',
+					link: 'https://chat.openai.com/',
 				},
 				{
 					name: 'Plati',
