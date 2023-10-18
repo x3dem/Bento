@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Aniwave',
+			name: 'Anix',
 			icon: 'monitor-play',
-			link: 'https://aniwave.to/home',
+			link: 'https://anix.to/home',
 		},
 		{
 			id: '6',
