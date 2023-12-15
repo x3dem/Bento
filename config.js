@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https:mail.google.com//',
+			link: 'https://www.gmail.com//',
 		},
 		{
 			id: '3',
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Anix',
+			name: 'Aniwatch',
 			icon: 'monitor-play',
-			link: 'https://anix.to/home',
+			link: 'https://aniwatch.to/',
 		},
 		{
 			id: '6',
