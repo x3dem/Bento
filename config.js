@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Aniwatch',
+			name: 'Crunchyroll',
 			icon: 'monitor-play',
-			link: 'https://aniwatch.to/',
+			link: 'https://www.crunchyroll.com/',
 		},
 		{
 			id: '6',
