@@ -65,15 +65,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Nulled',
-			icon: 'pi-square',
-			link: 'https://www.nulled.to/',
+			name: 'Hulu',
+			icon: 'popcorn',
+			link: 'https://www.hulu.com/',
 		},
 		{
 			id: '4',
-			name: 'Icloud',
-			icon: 'cloud',
-			link: 'https://www.icloud.com/',
+			name: 'Paramount+',
+			icon: 'airplay',
+			link: 'https://www.paramountplus.com/',
 		},
 		{
 			id: '5',
@@ -135,46 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'sparkles',
 			id: '1',
 			links: [
 				{
-					name: 'Valentine.',
-					link: 'https://open.spotify.com/playlist/7DOVjS5OdoYsqieFiKVNa2',
+					name: 'Amex',
+					link: 'https://www.americanexpress.com/',
 				},
 				{
-					name: 'Viola',
-					link: 'https://open.spotify.com/playlist/6AfdNhSnkUO03sYzaOFuq6',
+					name: 'Walmart',
+					link: 'https://www.walmart.com/',
 				},
 				{
-					name: 'Pluto.',
-					link: 'https://open.spotify.com/playlist/5ZCO60Noq0803ZR8w8md1x',
+					name: 'HBO Max',
+					link: 'https://play.hbomax.com/',
 				},
 				{
-					name: '😋🎉',
-					link: 'https://open.spotify.com/playlist/26fXYNrAVIEPHJhBTQNlkm',
+					name: 'Disney +',
+					link: 'https://www.disneyplus.com/home',
 				},
 			],
 		},
 		{
-			icon: 'brain-circuit',
+			icon: 'cannabis',
 			id: '2',
 			links: [
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'FMHY',
+					link: 'https://fmhy.net/',
 				},
 				{
-					name: 'Twitch',
-					link: 'https://www.twitch.com',
+					name: 'Pluto',
+					link: 'https://pluto.tv/',
 				},
 				{
 					name: 'AI',
 					link: 'https://chat.openai.com/',
 				},
 				{
-					name: 'Plati',
-					link: 'https://plati.market/',
+					name: 'Amazon',
+					link: 'https://www.amazon.com/',
 				},
 			],
 		},
