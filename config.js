@@ -54,7 +54,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Youtube',
-			icon: 'youtube',
+			icon: 'play',
 			link: 'https://www.youtube.com/',
 		},
 		{
